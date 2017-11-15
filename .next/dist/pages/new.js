@@ -18,7 +18,7 @@ var _Header2 = _interopRequireDefault(_Header);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = 'D:\\Projects\\Quantum-3\\pages\\new.js?entry';
+var _jsxFileName = 'D:\\Projects\\quantum-3\\pages\\new.js?entry';
 
 exports.default = function () {
   return _react2.default.createElement('div', {
@@ -38,4 +38,4 @@ exports.default = function () {
     }
   }));
 };
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzXFxuZXcuanMiXSwibmFtZXMiOlsiTmV3UG9zdCIsIkhlYWRlciJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUFBLEFBQU8sQUFBYTs7OztBQUNwQixBQUFPLEFBQVksQUFFbkI7Ozs7Ozs7O2tCQUFlLFlBQUE7eUJBQU0sY0FBQTs7Z0JBQUE7a0JBQUEsQUFBSztBQUFMO0FBQUEsR0FBQSxrQkFBSyxBQUFDOztnQkFBRDtrQkFBTCxBQUFLLEFBQVM7QUFBVDtBQUFBLHNCQUFTLEFBQUM7O2dCQUFEO2tCQUFwQixBQUFNLEFBQWM7QUFBQTtBQUFBO0FBQW5DIiwiZmlsZSI6Im5ldy5qcz9lbnRyeSIsInNvdXJjZVJvb3QiOiJEOi9Qcm9qZWN0cy9RdWFudHVtLTMifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzXFxuZXcuanMiXSwibmFtZXMiOlsiTmV3UG9zdCIsIkhlYWRlciJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUFBLEFBQU8sQUFBYTs7OztBQUNwQixBQUFPLEFBQVksQUFFbkI7Ozs7Ozs7O2tCQUFlLFlBQUE7eUJBQU0sY0FBQTs7Z0JBQUE7a0JBQUEsQUFBSztBQUFMO0FBQUEsR0FBQSxrQkFBSyxBQUFDOztnQkFBRDtrQkFBTCxBQUFLLEFBQVM7QUFBVDtBQUFBLHNCQUFTLEFBQUM7O2dCQUFEO2tCQUFwQixBQUFNLEFBQWM7QUFBQTtBQUFBO0FBQW5DIiwiZmlsZSI6Im5ldy5qcz9lbnRyeSIsInNvdXJjZVJvb3QiOiJEOi9Qcm9qZWN0cy9xdWFudHVtLTMifQ==
